@@ -14,11 +14,11 @@ Using the keyboard shortcut command + down arrow, we were quickly able to see th
 
 ### Outcomes Based on Launch Date
 
-![This is an image](Resources/Theater_Outcomes_vs_Launch.png)
+![This is an image](Challenge/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Outcomes Based on Goals
 
-![This is an image](Resources/Outcomes_vs_Goals.png)
+![This is an image](Challenge/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges Encountered
 
@@ -30,10 +30,23 @@ Some challenges in working with the data was that it needed to be organized and 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
+- Across each month of the year, there is a much higher number of successful plays vs failed or cancelled, with highest number of plays in May.
 
-- What are some limitations of this dataset?
+What can you conclude about the Outcomes based on Goals?
 
-- What are some other possible tables and/or graphs that we could create?
+- The majority of campaings with funding goals over $45k perform worse (failed) than successful ones.
+- Over 50% of campaigns with funding goals at $10k or below were successful.
+- Over 50% of campaigns with funding goals between $35-$40k were successful.
+
+What are some limitations of this dataset?
+- The amont of data per category and subcategory may vary potentially causing it to skew more or less successfull in terms of outcome percents.
+
+What are some other possible tables and/or graphs that we could create?
+- Line graphs outlining categories with a successful outcome, by months and number of plays to see which was the best and when.
+- Line graph outlining categories with a failed outcome, by months and number of plays to see which was the best and when.
+- Line graph of the theater category's subcategories successful outcome to see which were most successfull and when.
+- Line graph of the theater category's subcategories failed outcome to see which were most successfull and when. 
+- Line graph of the theater category's subcategories  who successful and their goal range to see which were most successfull and when.
+- Line graph of the theater category's subcategories failed outcome and their goal range to see which were most successfull and when. 
